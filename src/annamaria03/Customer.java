@@ -31,8 +31,8 @@ public class Customer extends Bank{
         Random random = new Random();
         return random.nextLong(1000000000)*10;
     }
-
-    public double getInitialAmount() {
+    //autobox...
+    public Double getInitialAmount() {
         return initialAmount;
     }
 

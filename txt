@@ -1,0 +1,20 @@
+Time-beating #autoboxing challenge by Tim #Buchalka
+After checking solutions it seems like I again approached a bit differently this task as T.B.
+though it does what it needs to do
+I applied, practiced inheritance so separated the task into two classes
+further, was thinking about to encapsulate since bank, you know start some safety
+ ...time had run out, didn't do that, ..
+I added Math.random() to generate account numbers
+Looking back I wasn't sure if I used autoboxing-unboxing so,
+quickly added one, see the result of second commit with this txt...
+Then, rounded Double to two digits
+Added findCustomer() method..
+for more precise solution could have created findCustomerByAccountNumber()
+And then had some fun with names,, i guess.. filter()
+I know it's not perfect but a way to kill time.  . . ..
+and runs properly while putting smiles on and guess entertains... LL
+and above all it gets different side of my brain to work because i have..
+anyway, still
+NoXoXoMe
+who knows maybe next time i put together a photo analysing app,
+to help differ photos from snaps.
